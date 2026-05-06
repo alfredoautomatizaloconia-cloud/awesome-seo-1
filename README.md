@@ -165,6 +165,9 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
 > Open-source, local-first AI search visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, $0/month, with visibility scoring, citation analysis, and competitor battlecards.
 
+[TinyTools](https://tinytools-smoky.vercel.app/)
+> Free browser-based SEO utilities, no signup. Includes SEO meta tag generator, AI robots.txt generator (handles GPTBot/ClaudeBot/etc.), AI content disclosure generator (EU AI Act compliant), favicon generator, and OG image generator. Open source, runs entirely client-side.
+
 ## Chrome Plugins
 
 [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp)
